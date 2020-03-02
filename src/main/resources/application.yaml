@@ -1,0 +1,6 @@
+email:
+  from: no-reply@gogosing.me
+
+aws:
+  access-key-id: input your aws access key id...
+  secret-access-key: input your aws secret access key...
